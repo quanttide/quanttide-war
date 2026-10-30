@@ -1,3 +1,6 @@
 [submodule "docs/tutorial"]
 	path = docs/tutorial
 	url = https://github.com/quanttide/quanttide-tutorial-of-war-gaming.git
+[submodule "apps/qtgame-war"]
+	path = apps/qtgame-war
+	url = https://github.com/quanttide/qtgame-war.git
