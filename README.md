@@ -7,6 +7,7 @@
 ## 子模块
 
 - `docs/tutorial`：兵旗推演教程 (git submodule → quanttide-tutorial-of-war-gaming)
+- `apps/qtgame-war`：量潮战旗——回合制六角格战棋 (git submodule → qtgame-war)
 
 ## 许可
 
